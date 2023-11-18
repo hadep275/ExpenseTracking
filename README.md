@@ -45,17 +45,10 @@ This is a simple web application for tracking your budget and expenses. The app 
 
 ## Demo
 
-A live demo of the application is available [here](https://hadep275.github.io/ExpenseTracking/).
+A live demo of the application is [available here](https://hadep275.github.io/ExpenseTracking/).
 
 ## Screenshots
 ![screencapture-hadep275-github-io-ExpenseTracking-2023-11-17-23_59_54](https://github.com/hadep275/ExpenseTracking/assets/65734173/413b4ef7-1320-474c-a23d-3d073fbe3a12)
-
-
-![Screenshot 1](/path/to/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](/path/to/screenshot2.png)
-*Caption for Screenshot 2*
 
 ## Contributing
 
